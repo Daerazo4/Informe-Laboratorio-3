@@ -30,6 +30,15 @@ Materiales utilizados
 
 Dado los materiales procedemos a armar el siguiente circuito
 
+[![Circuito-lab-3.png](https://i.postimg.cc/85Gv0SBB/Circuito-lab-3.png)](https://postimg.cc/v1PD4CKc)
+
+Mida cada uno de los voltajes de nodo y anote los resultados en la tabla
+
+[![circuito-3.png](https://i.postimg.cc/13W0zHNh/circuito-3.png)](https://postimg.cc/CRqnPbNm)
+
+
+
+
 
 
 
