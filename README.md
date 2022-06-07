@@ -42,3 +42,4 @@ Mida cada uno de los voltajes de nodo y anote los resultados en la tabla
 
 
 
+
