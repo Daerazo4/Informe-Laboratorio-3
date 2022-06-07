@@ -24,17 +24,21 @@
 
 ## 3.EXPLICACIÓN DEL PROCEDIMIENTO
 
-Materiales utilizados
-
+- Materiales utilizados
 [![Materiales-lab-3.png](https://i.postimg.cc/kGcvc50b/Materiales-lab-3.png)](https://postimg.cc/5QXz9fN4)
 
-Dado los materiales procedemos a armar el siguiente circuito
-
+- Dado los materiales procedemos a armar el siguiente circuito
 [![Circuito-lab-3.png](https://i.postimg.cc/85Gv0SBB/Circuito-lab-3.png)](https://postimg.cc/v1PD4CKc)
 
-Mida cada uno de los voltajes de nodo y anote los resultados en la tabla
+- Mida cada uno de los voltajes de nodo y anote los resultados en la tabla
 
+
+- Simule en el software Thinkercad, el circuito de la figura
 [![circuito-3.png](https://i.postimg.cc/13W0zHNh/circuito-3.png)](https://postimg.cc/CRqnPbNm)
+
+- Anote los resultados en la tabla
+
+
 
 
 
