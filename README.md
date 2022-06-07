@@ -73,8 +73,23 @@ Cálculos del porcentaje de error
 
 ### 6. CONCLUCIONES
 
+- Los valores medidos y los valores calculados coinciden con un mínimo error.
+
+- El análisis de nodos nos permite determinar los voltajes en los nodos asi como las corrientes en las ramas. 
+
+- Se fundamenta en dos leyes las cuales son la Ley de Kirchhoff y La ley de Ohm.
+
+- Cuando el circuito tiene un número alto de elementos es preferible elegir el método de KCL, ya que tenemos menos nodos y por lo tanto menos ecuaciones.
+
+- Los valores medidos y los valores calculados coinciden con un mínimo error.
+
+ ### 7. Bibliografia
+- El método del voltaje en los nodos. (2022). Khan academy. Recuperado 6 de junio del 2022, de 
+    https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method
+- Guia de laboratorio: laboratorio 3. (2022).  https://drive.google.com/file/d/10Nxa__MK9FgwMMndmA-OQGMZ9j-lbn9-/view
 
 
+ 
 
 
 
